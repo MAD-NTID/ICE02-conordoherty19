@@ -1,0 +1,11 @@
+/Users/conordoherty/Documents/ICE02/Part1/bin/Debug/netcoreapp2.2/Part1.deps.json
+/Users/conordoherty/Documents/ICE02/Part1/bin/Debug/netcoreapp2.2/Part1.runtimeconfig.json
+/Users/conordoherty/Documents/ICE02/Part1/bin/Debug/netcoreapp2.2/Part1.runtimeconfig.dev.json
+/Users/conordoherty/Documents/ICE02/Part1/bin/Debug/netcoreapp2.2/Part1.dll
+/Users/conordoherty/Documents/ICE02/Part1/bin/Debug/netcoreapp2.2/Part1.pdb
+/Users/conordoherty/Documents/ICE02/Part1/obj/Debug/netcoreapp2.2/Part1.csprojAssemblyReference.cache
+/Users/conordoherty/Documents/ICE02/Part1/obj/Debug/netcoreapp2.2/Part1.csproj.CoreCompileInputs.cache
+/Users/conordoherty/Documents/ICE02/Part1/obj/Debug/netcoreapp2.2/Part1.AssemblyInfoInputs.cache
+/Users/conordoherty/Documents/ICE02/Part1/obj/Debug/netcoreapp2.2/Part1.AssemblyInfo.cs
+/Users/conordoherty/Documents/ICE02/Part1/obj/Debug/netcoreapp2.2/Part1.dll
+/Users/conordoherty/Documents/ICE02/Part1/obj/Debug/netcoreapp2.2/Part1.pdb
